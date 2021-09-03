@@ -1,4 +1,5 @@
 *.pyc
 log*
 *.png
+*.pkl
 __pycache__
